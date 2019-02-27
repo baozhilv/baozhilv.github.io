@@ -9,6 +9,6 @@ tags: blog
 
 ##### 参考链接
 
-![github 分支新建](http://www.voidcn.com/article/p-exjqoytv-mz.html)
-![blog 实际备份](https://www.jianshu.com/p/57b5a384f234)
+[github 分支新建](http://www.voidcn.com/article/p-exjqoytv-mz.html)
+[blog 实际备份](https://www.jianshu.com/p/57b5a384f234)
 
