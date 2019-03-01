@@ -7,6 +7,8 @@ tags: blog
 
 #### 对自己的 blog 做了 bakcup，原理是对 git 新建了 hexo 分支，用于存储站点全备
 
+<!-- more -->
+
 ##### 参考链接
 
 [github 分支新建](http://www.voidcn.com/article/p-exjqoytv-mz.html)
